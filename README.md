@@ -7,7 +7,7 @@ A single command generates and deploys an app that redirects all requests to one
 ## Installation
 
 ```shell
-npm install -g now now-redirect
+sudo npm install -g partnerhero/now-redirect
 ```
 
 ## Usage
